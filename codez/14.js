@@ -12,7 +12,6 @@
  *
  * Which starting number, under one million, produces the longest chain?
  */
-
 var longestChain = function(upperBoundForNumber) {
   var maxLength = 0;
   var numberWithLongestChain = 1;
