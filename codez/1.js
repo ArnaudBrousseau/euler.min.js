@@ -12,4 +12,4 @@ for (i=0; i < 1000; i++) {
   }
 }
 
-console.log(result);
+console.log("Answer to problem #1 is: " + result);
